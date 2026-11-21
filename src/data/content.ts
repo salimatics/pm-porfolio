@@ -223,7 +223,7 @@ export const experience = [
 
 export const skills = [
   { group: "Web fundamentals", items: ["HTML5", "CSS3", "JavaScript (ES6+)", "TypeScript", "Mobile-first"] },
-  { group: "Frameworks & CMS", items: ["React", "Next.js", "Node.js", "Express", "WordPress (headless)", "React Native", "Tailwind CSS"] },
+  { group: "Frameworks & CMS", items: ["React", "Next.js", "Node.js", "Express", "WordPress", "Headless WordPress", "React Native", "Tailwind CSS"] },
   { group: "APIs & data", items: ["REST", "GraphQL (Apollo)", "tRPC", "React Query", "SWR", "PostgreSQL", "MySQL", "Prisma", "NoSQL"] },
   { group: "Quality & workflow", items: ["Git / GitHub", "Jest", "Cypress", "Manual QA", "CI/CD"] },
   { group: "Libraries", items: ["Redux Toolkit", "Zustand", "Material UI", "shadcn/ui", "GSAP", "Framer Motion"] },

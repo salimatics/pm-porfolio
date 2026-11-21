@@ -69,7 +69,6 @@ export function Contact() {
         <span>
           © {new Date().getFullYear()} {profile.name}
         </span>
-        <span>Designed &amp; built with Next.js, Tailwind CSS and Framer Motion.</span>
       </footer>
     </section>
   );
